@@ -37,4 +37,3 @@
 
 [![](https://raw.githubusercontent.com/expecto27/expecto27/master/profile-summary-card-output/city_lights/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/expecto27/expecto27/master/profile-summary-card-output/city_lights/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/expecto27/expecto27/master/profile-summary-card-output/city_lights/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/expecto27/expecto27/master/profile-summary-card-output/city_lights/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![]()](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={expecto27}&utcOffset={8})(https://github.com/vn7n24fzkq/github-profile-summary-cards)
