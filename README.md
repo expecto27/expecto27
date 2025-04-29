@@ -1,4 +1,4 @@
-<h3 align="center">Android developer from Russia</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=expecto27&label=Profile%20views&color=0e75b6&style=flat" alt="expecto27" /> </p>
 
